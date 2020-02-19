@@ -1,0 +1,9 @@
+# base-dir is the directory that should already contain the state.txt file, and
+# the root of the output for the 123/456/789.osc.gz files.
+base-dir: /tmp/output
+
+# the configuration file for OSMDBT.
+osmdbt-config: ../osmdbt/osmdbt_config.yaml
+
+# the path to the OSMDBT binaries.
+osmdbt-bin: ../osmdbt/build/src
