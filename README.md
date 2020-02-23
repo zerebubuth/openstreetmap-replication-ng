@@ -1,5 +1,7 @@
 # openstreetmap-replication-ng
 
+***PLEASE NOTE! This is experimental code, at a very early stage. It might work, or it might explode. Please do not use it for any purpose - it's not even ready for testing yet, and may never be!***
+
 Script for doing OSM (minutely) replication using [osm-logical](https://github.com/zerebubuth/osm-logical) and [joto's osmdbt](https://github.com/joto/osmdbt).
 
 ## Installation
